@@ -1,1 +1,41 @@
-
+body
+{
+    font-family: 'Kumbh Sans', sans-serif;
+}
+.avatar
+{
+    width: 50%;
+    height: 50%;
+}
+.cart
+{
+    width: 30%;
+    height: 20%;
+}
+hr.solid
+{
+    width: 75%;
+}
+.navbar
+{
+    margin-left: 150px;
+}
+.secondnav
+{
+    margin-right: 150px;
+}
+.product1
+{
+    width: 40%;
+    height: 40%;
+    border-radius: 5%;
+}
+.productbox
+{
+    margin-left: 200px;
+}
+.sneakertext
+{
+    color:hsl(26, 100%, 55%);
+    font-weight: bold;
+}
